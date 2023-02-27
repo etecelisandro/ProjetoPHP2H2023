@@ -1,0 +1,6 @@
+<?php 
+
+
+print date ("y")
+
+ ?>
